@@ -1,13 +1,13 @@
 {
-	"name": "twitter-header-fun",
-	"description": "Update your twitter header programmatically with some randomly placed and scaled images.",
+	"name": "twitter-banner-fun",
+	"description": "Update your twitter banner programmatically with some randomly placed and scaled images.",
 	"version": "0.0.1",
 	"author": "Charlie Wagner",
 	"main": "./main.js",
-	"homepage": "https://github.com/satsukitv/twitter-header-fun",
+	"homepage": "https://github.com/satsukitv/twitter-banner-fun",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/satsukitv/twitter-header-fun.git"
+		"url": "https://github.com/satsukitv/twitter-banner-fun.git"
 	},
 	"dependencies": {
 		"request": "*",
